@@ -15,7 +15,8 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="Abp.Castle.Log4Net" Version="6.3.0" />
+    <PackageReference Include="Abp.AspNetCore.SignalR" Version="6.4.0" />
+    <PackageReference Include="Abp.Castle.Log4Net" Version="6.4.0" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Qts.Ultimate.Core\Qts.Ultimate.Core.csproj" />

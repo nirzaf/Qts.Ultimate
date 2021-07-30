@@ -11,6 +11,9 @@
     <RootNamespace>Qts.Ultimate</RootNamespace>
   </PropertyGroup>
   <ItemGroup>
+    <PackageReference Include="Abp.AspNetCore.SignalR" Version="6.4.0" />
+  </ItemGroup>
+  <ItemGroup>
     <ProjectReference Include="..\Qts.Ultimate.Core\Qts.Ultimate.Core.csproj" />
   </ItemGroup>
 </Project>

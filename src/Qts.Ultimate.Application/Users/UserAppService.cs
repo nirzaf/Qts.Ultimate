@@ -105,7 +105,7 @@ namespace Qts.Ultimate.Users
         {
             await Repository.UpdateAsync(user.Id, async (entity) =>
             {
-                entity.IsActive = true;
+                 entity.IsActive = true;
             });
         }
 
