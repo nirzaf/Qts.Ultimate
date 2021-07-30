@@ -22,10 +22,10 @@
     <ProjectReference Include="..\Qts.Ultimate.EntityFrameworkCore\Qts.Ultimate.EntityFrameworkCore.csproj" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="5.0.0" />
-    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.4.1" />
-    <PackageReference Include="Abp.AspNetCore" Version="6.3.0" />
-    <PackageReference Include="Abp.ZeroCore" Version="6.3.0" />
-    <PackageReference Include="Abp.AspNetCore.SignalR" Version="6.3.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="5.0.8" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.1.4" />
+    <PackageReference Include="Abp.AspNetCore" Version="6.4.0" />
+    <PackageReference Include="Abp.ZeroCore" Version="6.4.0" />
+    <PackageReference Include="Abp.AspNetCore.SignalR" Version="6.4.0" />
   </ItemGroup>
 </Project>
